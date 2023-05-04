@@ -1,6 +1,6 @@
 
 <script>
-/* export default {
+export default {
   name: 'comp',
   render: (createElement) => {
     return createElement('view', [
@@ -25,7 +25,7 @@
       ),
     ])
   },
-} */
+}
 
 /* export default {
   name: 'comp',
@@ -54,7 +54,7 @@
   },
 }  */
 
-export default {
+/* export default {
   name: 'comp',
   render(createElement) {
     return createElement('view', [
@@ -79,6 +79,6 @@ export default {
       ),
     ])
   },
-}
+} */
 </script>
 

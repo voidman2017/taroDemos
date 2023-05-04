@@ -1,8 +1,9 @@
 <template>
   <view class="index">
+    <view>webpack5</view>
     <comp></comp>
     <view class="line">这是测试页面</view>
-   <!--  <swiper
+    <!--  <swiper
       class="test-h"
       indicator-color="#999"
       indicator-active-color="#333"

@@ -1,5 +1,6 @@
 <template>
   <view class="index">
+    <view>webpack4</view>
     <comp></comp>
     <view class="line">这是测试页面</view>
    <!--  <swiper
